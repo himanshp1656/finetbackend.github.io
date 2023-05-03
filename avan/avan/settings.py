@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-6pt$r2s-6mjfeb0tfw$wn(b9(ik#b*x-0)824!4pc(40&z3sm-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://himanshp1656.github.io/finetbackend.github.io/]
 
 
 # Application definition
